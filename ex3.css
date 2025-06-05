@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+
+.box {
+    height: 150px;
+    width: 300px;
+    background-color: #d3eaff;
+    padding: 20px;
+    border-style: solid;
+    border-color: #333;
+    border-width: 5px;
+}
