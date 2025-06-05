@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.tmh {
+    height: 150px;
+    width: 300px;
+    background-color: #d3eaff;
+   padding: 20px;
+}
