@@ -1,0 +1,13 @@
+.box {
+    width: 300px;
+    padding: 20px;
+    border: 5px;
+    background-color: aqua;
+    box-sizing: border-box;
+}
+.caixa {
+    width: 300px;
+    padding: 20px;
+    border: 5px;
+    background-color: blueviolet;
+}
